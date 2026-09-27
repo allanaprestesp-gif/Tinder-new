@@ -62,3 +62,12 @@ body {
     width: auto;
 }
 
+@media (min-width: 700px) {
+    .tinder-header {
+        padding-top: 150px;
+    }
+
+    .tinder-main {
+        padding-top: 120px;
+    }
+}
