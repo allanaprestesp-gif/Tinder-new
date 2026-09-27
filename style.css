@@ -55,3 +55,10 @@ body {
 .login-button:hover {
     background: #eeeeee;
 }
+
+.button-icon {
+    display: block;
+    height: 26px;
+    width: auto;
+}
+
